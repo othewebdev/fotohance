@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fotohance/precache-manifest.c3d4b7983abef6c3143b537b24c6f0a6.js"
+  "/fotohance/precache-manifest.290de488f740a15978358051a24ff181.js"
 );
 
 self.addEventListener('message', (event) => {
